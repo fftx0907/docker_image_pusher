@@ -1,1 +1,3 @@
 portainer/portainer-ce
+rocket.chat
+rocketchat/rocket.chat
